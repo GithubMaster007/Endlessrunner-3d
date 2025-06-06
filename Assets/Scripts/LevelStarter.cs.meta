@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d7beb2cc9a181894895a01b6f06b44c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - countDown3: {fileID: 5998583145502923950, guid: 95fb3a272579be74f956901d985a93bb, type: 3}
+  - countDown2: {fileID: 4079074472145383497, guid: 2544b1b51f25edf4c8b630cfbc7be9d5, type: 3}
+  - countDown1: {fileID: 7381028742511705030, guid: f8b71e010d91d0e4a867115abaa55845, type: 3}
+  - countDownGo: {fileID: 3007305380522442018, guid: f42977e6f9c6ac44cbd9aec527bfc4c3, type: 3}
+  - fadeIn: {fileID: 6574407929295964045, guid: c1d4555fea3b0a24e8490aa47da61091, type: 3}
+  - goFX: {instanceID: 0}
+  - readyFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
